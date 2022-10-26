@@ -2,37 +2,27 @@
 
 # Hello-Microverse
 
-> Microverse Project Day 2
+> This is the Microverse project that is designed to learn how to work with Github, Git and Linters. This project is made solely for educaitonal purposes.
 
 ## Built With
 
-- HTML
-- CSS
-- Javascript
+- HTML, CSS
+- Technologies: Git, Gitflow, Linters, Github
 
 ## Getting Started
 
-**This project is made solely for educaitonal purposes.**
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+---
 
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running follow these simple example steps. Copy the following link to the repository: https://github.com/haliljon/Hello-Microverse.git
 
 ### Prerequisites
 
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+- Have a computer and internet connection
+- Have `visual-studio code` or any other code editor installed on your computer.
 
 ## Authors
 
-👤 **Author1**
+👤 **Haliljon Juraboev**
 
 - GitHub: [@githubhaliljon](https://github.com/haliljon)
 - Twitter: [@twitterhaliljon1](https://twitter.com/haliljon1)
